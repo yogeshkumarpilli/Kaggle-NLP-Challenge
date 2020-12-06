@@ -2,3 +2,5 @@
 This Repository is for Kaggle NLP Challenge
 
 We need to check the bias as well
+
+Check the disparity impact of gender
